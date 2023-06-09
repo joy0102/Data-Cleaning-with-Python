@@ -11,7 +11,7 @@ The raw dataset includes a record for each vehicle buyer, capturing customer inf
 It is important to note that the dataset records up to two cars that were considered by each customer, in addition to the car that they ultimately purchased.
 
 | respondent id | purchased car | first considered car | second considered car | feature 1 of purchased car: price| feature 2 of purchased car: body type| ... |feature n of purchased car|
-|---------------|---------------|----------------------|-----------------------|----------------------------------|--------------------------------------| ... | ...                      |
+|---------------|---------------|----------------------|-----------------------|----------------------------------|--------------------------------------| --- | ------------------------ |
 |  1  | Tesla Model 3  | Hyundai Ioniq 5  | N/A         | 40,240 | Sedan | ... | ...|
 |  2  | Toyota Camry   | Hyundai Sonata   | Honda Civic | 26,320 | Sedan | ... | ...|
 
